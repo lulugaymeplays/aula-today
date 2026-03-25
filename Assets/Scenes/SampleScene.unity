@@ -244,6 +244,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 608cfffa2662bb644be1eac6429f4c91, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cores:
+  - {r: 0, g: 0.5384617, b: 1, a: 0}
+  - {r: 1, g: 0.16834342, b: 0, a: 0}
+  - {r: 0, g: 1, b: 0.048205614, a: 0}
+  - {r: 1, g: 0.9499881, b: 0, a: 0}
 --- !u!1 &306070691
 GameObject:
   m_ObjectHideFlags: 0
@@ -653,6 +658,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 41bdc3860ea76174cbe4018b78d1cbe0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cores: []
+  speed: 10
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
